@@ -1,2 +1,3 @@
-# yolo_image_detection
-YOLO object detection on images
+# YOLO image detection
+
+YOLO object detection on images using openCV on CPU
